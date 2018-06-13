@@ -281,7 +281,7 @@
 
     var descriptor = {
         blocks: [
-            [' ', 'clear canvas', 'clear'],
+            [' ', '清除画布', 'clear'],
             [' ', 'refresh canvas', 'refresh'],
             [' ', 'fill colour %s', 'fillStyleColour', 'red'],
             [' ', 'stroke colour %s', 'strokeStyleColour', 'blue'],
